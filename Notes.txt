@@ -1,0 +1,5 @@
+1) Configure the DB details and port number in application.properties file 
+
+2) run the Application using springboot
+
+3) type the url http://localhost:8111/test in browser , able to see the application UI
